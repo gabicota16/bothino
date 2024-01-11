@@ -1,5 +1,5 @@
 {
-"name": "botruco",
+"name": "bothino",
 "version": "1.7.0",
 "description": "Super Bot WhatsApp",
 "main": "index.js",
@@ -17,16 +17,16 @@
 "test": "node test.js",
 "test2": "nodemon index.js" },
     
-"homepage": "https://github.com/gabicota16/botruco",
+"homepage": "https://github.com/gabicota16/bothino",
 "author": {
 "name": "GataNina-Li" },
     
 "repository": {
 "type": "git",
-"url": "git+https://github.com/gabicota16/botruco.git" },
+"url": "git+https://github.com/gabicota16/bothino.git" },
 
 "bugs": {
-"url": "https://github.com/gabicota16/botruco/issues" },
+"url": "https://github.com/gabicota16/bothino/issues" },
 "license": "GPL-3.0-or-later",
 "dependencies": {
 "@whiskeysockets/baileys": "^6.5.0",
